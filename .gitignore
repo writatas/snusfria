@@ -3,6 +3,10 @@
 /*.o
 /*.a
 /*.so
+*.out
+*.exe
+*.test
+main
 /build/
 /dist/
 /bin/
