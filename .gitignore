@@ -1,0 +1,17 @@
+/*.exe
+/*.out
+/*.o
+/*.a
+/*.so
+/build/
+/dist/
+/bin/
+/obj/
+*.log
+*.pyc
+*.class
+*.jar
+*.dll
+*.pdb
+*.DS_Store
+
